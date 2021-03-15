@@ -500,7 +500,7 @@
 				PRODUCT_BUNDLE_IDENTIFIER = com.4mstech.appcenter.sampleapp.swift;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				PROVISIONING_PROFILE = "";
-				PROVISIONING_PROFILE_SPECIFIER = com.4mstech.appcenter.sampleapp.swift;
+				PROVISIONING_PROFILE_SPECIFIER = com4mstechappcentersampleappswiftv2;
 				SWIFT_SWIFT3_OBJC_INFERENCE = Off;
 				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = 1;
@@ -518,7 +518,7 @@
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = com.4mstech.appcenter.sampleapp.swift;
 				PRODUCT_NAME = "$(TARGET_NAME)";
-				PROVISIONING_PROFILE_SPECIFIER = com.4mstech.appcenter.sampleapp.swift;
+				PROVISIONING_PROFILE_SPECIFIER = com4mstechappcentersampleappswiftv2;
 				SWIFT_SWIFT3_OBJC_INFERENCE = Off;
 				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = 1;
